@@ -1,7 +1,7 @@
 list-dir
 ========
 ```
-node ./index.js
+#node ./index.js
 ```
 
 or
